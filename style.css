@@ -1,0 +1,53 @@
+/* Global CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Card Component */
+.card {
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  padding: 16px 16px 40px 16px;
+  text-align: center;
+}
+
+.qr-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 24px;
+  object-fit: cover;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  margin-bottom: 16px;
+  line-height: 120%;
+  letter-spacing: 0;
+}
+
+.text {
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  line-height: 140%;
+  letter-spacing: 0.2px;
+  max-width: 256px;
+  margin: 0 auto;
+}
