@@ -24,8 +24,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- [Live Site URL](https://your-live-site-url.com)
-- [Solution on Frontend Mentor](https://your-solution-url.com)
+- [Live Site URL](https://qr-code-component-main-delta-amber.vercel.app/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-and-mobile-first-design-BLHONZF3_d)
 
 ---
 
